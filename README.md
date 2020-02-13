@@ -20,7 +20,6 @@ If this study is helping your research, consider to cite it is as follows, thank
 
 ```
 @inproceedings{EASE_2020,
-  url = { http://www.ivanomalavolta.com/files/papers/EASE_2020.pdf },
   year = { 2020 },
   publisher = { ACM },
   pages = { to appear },
