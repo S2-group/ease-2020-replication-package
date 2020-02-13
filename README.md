@@ -15,7 +15,8 @@ For any information, interested researchers can contact [Ivano Malavolta](https:
 The full dataset including raw data, mining scripts, and analysis scripts produced during the study are available below.
 
 ## How to cite us
-If this replication package is helping your research, consider to cite it is as follows, thanks!
+The scientific article describing design, execution, and main results of this study is available [here](./EASE_2020.pdf). 
+If this study is helping your research, consider to cite it is as follows, thanks!
 
 ```
 @inproceedings{EASE_2020,
