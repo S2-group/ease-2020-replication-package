@@ -31,7 +31,6 @@ If this replication package is helping your research, consider to cite it is as 
 ```
 
 ## Overview of the replication package
----
 
 ### Subjects selection
 
